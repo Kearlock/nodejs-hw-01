@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-js",
+  "name": "nodejs-hw-01",
   "version": "1.0.0",
   "description": "goit-node-js",
   "type": "module",
@@ -18,6 +18,8 @@
   "devDependencies": {
     "@eslint/js": "^9.2.0",
     "eslint": "^9.2.0",
-    "globals": "^15.1.0"
-  }
+    "globals": "^15.1.0",
+    "@faker-js/faker": "^10.0.0"
+  },
+  "dependencies": {}
 }
